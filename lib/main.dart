@@ -96,7 +96,7 @@ class FlutterGaugesPageState extends State<FlutterGaugesPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Fire Suppression System Monitor'),
+        title: const Text('Flutter Gauges'),
         elevation: 4.0,
       ),
       body: GridView.builder(
